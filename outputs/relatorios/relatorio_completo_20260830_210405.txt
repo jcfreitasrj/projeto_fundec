@@ -1,0 +1,45 @@
+================================================================================
+RELATÓRIO COMPLETO - ANÁLISE DE DADOS FUNDEC
+================================================================================
+Data de geração: 30/08/2026 21:04
+Total de registros: 10410
+================================================================================
+
+📊 ESTATÍSTICAS GERAIS
+--------------------------------------------------
+
+📈 SITUAÇÃO DOS ALUNOS
+  - PROMOVIDO: 3169 (30.4%)
+  - APROVADO: 2433 (23.4%)
+  - EVADIDO: 2384 (22.9%)
+  - NAO_INFORMADO: 1356 (13.0%)
+  - DESISTENTE: 668 (6.4%)
+  - REPROVADO: 169 (1.6%)
+  - RETIDO: 160 (1.5%)
+  - PROMOVIDA: 62 (0.6%)
+  - TRASFERIDO: 4 (0.0%)
+  - TRANFERIDO: 2 (0.0%)
+  - TRASFERIDA: 1 (0.0%)
+  - : 1 (0.0%)
+  - TRANFERIDA: 1 (0.0%)
+
+⚠️ TAXA DE EVASÃO: 29.3%
+  - Evadidos: 3052
+  - Não evadidos: 7358
+
+================================================================================
+💡 RECOMENDAÇÕES ESTRATÉGICAS
+================================================================================
+
+📌 Bairros
+   Recomendação: Implementar ações de mobilidade e transporte para bairros com alta evasão
+   Detalhes: PARQUE XERÉM , JARDIM GRAMACHO, SANTA CRUZ, JARDIM ANHANGÁ, VILA SANTA CRUZ 
+
+📌 Pendências
+   Recomendação: Criar programa de regularização de pendências com maior impacto na evasão
+   Detalhes: ESCOLARIDADE/FOTO, FALTA ESCOLARIDADE, PARA O TAMOIO, FALTA FOTO, FALTA TELEFONE
+
+📌 Modelo Preditivo
+   Recomendação: Utilizar o modelo para identificar alunos em risco de evasão
+   Detalhes: curso, idade, bairro
+
